@@ -1,0 +1,4 @@
+$schema: https://azuremlschemas.azureedge.net/latest/managedOnlineEndpoint.schema.json
+name: engageai-endpoint
+description: EngageAI classroom engagement risk prediction endpoint
+auth_mode: key

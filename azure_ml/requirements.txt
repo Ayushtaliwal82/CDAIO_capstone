@@ -1,0 +1,5 @@
+azureml-inference-server-http
+pandas
+scikit-learn
+joblib
+numpy

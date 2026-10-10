@@ -1,0 +1,30 @@
+{
+  "input_data": {
+    "columns": [
+      "attendance",
+      "assignment_completion",
+      "quiz_average",
+      "lms_activity",
+      "class_participation",
+      "poll_participation",
+      "discussion_participation",
+      "previous_engagement",
+      "missed_classes",
+      "avg_response_time_sec"
+    ],
+    "data": [
+      [
+        62,
+        65,
+        58,
+        30,
+        20,
+        25,
+        15,
+        42,
+        10,
+        105
+      ]
+    ]
+  }
+}
