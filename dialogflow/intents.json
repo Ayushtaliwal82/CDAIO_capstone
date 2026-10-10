@@ -1,0 +1,51 @@
+[
+  {
+    "displayName": "High Risk Students",
+    "trainingPhrases": [
+      "Which students are high risk?",
+      "Who needs attention?",
+      "Show high engagement risk students"
+    ],
+    "response": "Use the EngageAI webhook to return current high-risk counts."
+  },
+  {
+    "displayName": "Moderate Risk Count",
+    "trainingPhrases": [
+      "How many students are moderate risk?",
+      "Count moderate engagement risk students"
+    ],
+    "response": "Use the EngageAI webhook."
+  },
+  {
+    "displayName": "Attendance Below Threshold",
+    "trainingPhrases": [
+      "Who has attendance below 75 percent?",
+      "How many students have low attendance?"
+    ],
+    "response": "Use the EngageAI webhook."
+  },
+  {
+    "displayName": "Class Engagement",
+    "trainingPhrases": [
+      "What is the average engagement?",
+      "What is the class participation average?"
+    ],
+    "response": "Use the EngageAI webhook."
+  },
+  {
+    "displayName": "Intervention",
+    "trainingPhrases": [
+      "What intervention should I use?",
+      "How can I improve classroom engagement?"
+    ],
+    "response": "Use the EngageAI webhook."
+  },
+  {
+    "displayName": "Capabilities",
+    "trainingPhrases": [
+      "What can EngageAI do?",
+      "Help me with EngageAI"
+    ],
+    "response": "EngageAI summarizes engagement risk and suggests faculty interventions."
+  }
+]
